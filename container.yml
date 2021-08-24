@@ -5,7 +5,7 @@
   tasks: 
     - 
       name: "Stop the container"
-      Shell: "docker stop jon
+      Shell: "docker stop jon"
       name: "Delete the container"
       Shell: "docker rm jon"
       name: "create docker container"
